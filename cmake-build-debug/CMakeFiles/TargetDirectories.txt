@@ -1,0 +1,3 @@
+/Users/trickered/CLionProjects/Tarea01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/trickered/CLionProjects/Tarea01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trickered/CLionProjects/Tarea01/cmake-build-debug/CMakeFiles/Tarea01.dir

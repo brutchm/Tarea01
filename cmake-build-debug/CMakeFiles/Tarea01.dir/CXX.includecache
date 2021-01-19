@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trickered/CLionProjects/Tarea01/Lista.cpp
+iostream
+-
+Lista.h
+/Users/trickered/CLionProjects/Tarea01/Lista.h
+Nodo.h
+/Users/trickered/CLionProjects/Tarea01/Nodo.h
+
+/Users/trickered/CLionProjects/Tarea01/Lista.h
+Nodo.h
+/Users/trickered/CLionProjects/Tarea01/Nodo.h
+iostream
+-
+
+/Users/trickered/CLionProjects/Tarea01/Nodo.cpp
+Nodo.h
+/Users/trickered/CLionProjects/Tarea01/Nodo.h
+
+/Users/trickered/CLionProjects/Tarea01/Nodo.h
+
+/Users/trickered/CLionProjects/Tarea01/main.cpp
+iostream
+-
+Lista.h
+/Users/trickered/CLionProjects/Tarea01/Lista.h
+
