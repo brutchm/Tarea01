@@ -3,4 +3,4 @@ project(Tarea01)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Tarea01 main.cpp Nodo.cpp Nodo.h Lista.cpp Lista.h Pila.cpp Pila.h Cola.cpp Cola.h Gestor.cpp Gestor.h)
+add_executable(Tarea01 "src/mcastaingk/ahidalgoj/cobandol/brutchm/ui/Main.cpp" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Nodo.cpp" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Nodo.h" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Lista.cpp" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Lista.h" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Pila.cpp" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Pila.h" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Cola.cpp" "src/mcastaingk/ahidalgoj/cobandol/brutchm/bl/Cola.h" "src/mcastaingk/ahidalgoj/cobandol/brutchm/dl/Gestor.cpp"  "src/mcastaingk/ahidalgoj/cobandol/brutchm/dl/Gestor.h")
